@@ -34,3 +34,7 @@ pnpm-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local-only leftovers from initial setup
+.git-old/
+test.txt
